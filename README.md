@@ -41,7 +41,6 @@ This commands includes
 
 **nslookup**
 <img width="1190" height="946" alt="image" src="https://github.com/user-attachments/assets/64621f06-271c-4e3c-825d-a7b6366a2bf9" />
-
 <img width="1053" height="255" alt="image" src="https://github.com/user-attachments/assets/72717b73-0220-4cd6-97ae-0ec2c4b333ff" />
 
 **getmac**
@@ -58,7 +57,6 @@ This commands includes
 
 **systeminfo**
 <img width="1320" height="945" alt="image" src="https://github.com/user-attachments/assets/b3b9f2eb-e629-4d76-b8d0-7fa8f72fdfbd" />
-
 <img width="1881" height="1000" alt="image" src="https://github.com/user-attachments/assets/74f50cc1-f168-46ed-bb45-9282b4575fdd" />
 
 ## Result
